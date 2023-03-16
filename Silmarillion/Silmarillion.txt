@@ -1,3 +1,10 @@
+##name	Lexique du Silmarillion
+##version	0.0.1
+##website	https://github.com/WillScarlettOhara/Dictionnaires
+##date	2023-03-16
+##description	Dictionnaire pour faciliter la lecture du Silmarillion de J.R.R. Tolkien (ɔ) 2023
+##sourceLang	French
+##targetLang	French
 Adanedhel	<i>L’homme-Elfe</i>, nom donné à Túrin à Nargothrond.<br>
 Adûnakhôr	<i>Seigneur de l’Ouest</i>, titre pris par le vingtième Roi de Númenor, le premier à le faire en langue adûnaic (de Númenor). En quenya son titre était Herunúmen.<br>
 Adurant	Le sixième et le plus au sud des affluents du Gelion à Ossiriand. Ce nom signifie <i>double cours</i>, et renvoie à son lit divisé autour de l’île de Tol Galen.<br>
@@ -249,7 +256,7 @@ Elendili	<i>Ami des Elfes</i>, nom donné aux Númenóréens qui ne s’éloign�
 Elendur	Fils aîné d’Isildur, tué avec lui sur la Plaine des Iris.<br>
 Elenna	Nom (quenya) de Númenor, <i>Vers les Étoiles</i>, d’après le voyage des Edain avec Númenor guidés par Eärendil au début du Second Age.<br>
 Elfes Abandonnés	Voir Eglath.<br>
-Elfes de la Forêt|Elfes Sylvains|Elfes des Bois	À l’origine il semble que ce furent les Elfes de Nandor qui ne franchirent pas les Montagnes de Brume pour aller à l’ouest, mais restèrent dans la vallée de l’Anduin et dans la Grande Forêt Verte. Voir Nandor.<br>
+Elfes de la Forêt|Elfes Sylvains	À l’origine il semble que ce furent les Elfes de Nandor qui ne franchirent pas les Montagnes de Brume pour aller à l’ouest, mais restèrent dans la vallée de l’Anduin et dans la Grande Forêt Verte. Voir Nandor.<br>
 Elfes de la Nuit	Dans le langage d’Aman tous les Elfes qui ne traversèrent pas la Grande Mer étaient des Elfes de la Nuit (Moriquendi) ; ce terme est parfois employé ainsi	quand Caranthir traita Thingol d’Elfe de la Nuit c’était dans une intention injurieuse, d’autant que Thingol était allé en Aman et <i>n’était pas compté parmi les Moriquendi</i>. Mais, pendant le temps que dura l’exil des Noldor, ce nom désigna souvent les Elfes des Terres du Milieu autres que les Noldor et les Sindar, équivalant virtuellement à Avari. Elfe Noir est pris encore dans un sens différent dans le titre donné à Eöl, un Sindar, mais Turgon employa ce titre en voulant dire sans aucun doute qu’Eöl était un Moriquendi.<br>
 Elfes Gris	Voir Sindar.<br>
 Elfes Verts	Traduction de Laiquendi, les Elfes Nandorin d’Ossiriand.<br>
