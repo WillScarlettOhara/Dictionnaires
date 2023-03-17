@@ -1,8 +1,8 @@
 StarDict's dict ifo file
 version=3.0.0
 bookname=Lexique du Silmarillion (fr-fr)
-wordcount=760
-idxfilesize=13947
+wordcount=755
+idxfilesize=13790
 sametypesequence=h
 synwordcount=2
 website=https://github.com/WillScarlettOhara/Dictionnaires
