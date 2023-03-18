@@ -1,0 +1,292 @@
+##name	Lexique de Dune
+##version	0.0.1
+##website	https://github.com/WillScarlettOhara/Dictionnaires
+##date	2023-03-17
+##description	Dictionnaire pour faciliter la lecture de Dune de Frank Herbert (ɔ) 2023
+##sourceLang	French
+##targetLang	French
+Aba	robe de forme vague portée par les femmes fremen. Généralement noire.
+Ach	virage à gauche. Ordre lancé par le barreur du ver.
+Adab	la mémoire qui exige et qui s’impose à vous.
+A.G.	avant la Guilde.
+Akarso	plante originaire de Sikun (70 Ophiuchi A) et caractérisée par ses feuilles oblongues. Ses rayures blanches et vertes correspondent aux zones de chlorophylle active et dormante.
+Alam al-Mithal	le monde mystique des similitudes où cessent toutes limitations.
+Al-Lat	le soleil originel de l’humanité. Par extension	tout soleil d’un système.
+Ampoliros	le légendaire « Hollandais Volant » de l’espace.
+Amtal ou règle de l’Amtal	règle en usage sur les mondes primitifs et destinée à déterminer les défauts et les aptitudes d’un homme ou d’un objet. Communément	l’épreuve de la destruction.
+Aql	l’épreuve de la raison. À l’origine, les « Sept Questions Mystiques » qui commencent par	« Qui est-ce qui pense ? »
+Arbitre du Changement	désigné par le Haut Conseil du Landsraad et l’Empereur pour surveiller un changement de fief, un Kanly, ou une bataille dans une Guerre des Assassins. L’autorité de l’Arbitre ne peut être contestée que devant le Haut Conseil et en présence de l’Empereur.
+Arrakeen	la première base d’Arrakis qui fut longtemps le siège du gouvernement planétaire.
+Arrakis	troisième planète du système de Canopus. Plus connue sous le nom de Dune.
+Assemblée	différente du Conseil, l’Assemblée est la convocation des chefs fremen afin d’assister à un combat pour le pouvoir tribal. (Un Conseil est une assemblée qui tranche des problèmes intéressant toutes les tribus.)
+Auliya	dans la religion des Vagabonds Zensunni, la femme à la main gauche de Dieu, la servante de Dieu.
+Aumas	poison administré avec la nourriture. (Plus particulièrement	avec la nourriture solide.) Chaumas dans certains dialectes.
+Ayat	les signes de vie. (Voir Burhan.)
+Bakka	dans la légende fremen, celui qui pleure pour toute l’humanité.
+Baklawa	pâtisserie à base de sirop de datte.
+Balisette	instrument de musique à neuf cordes, descendant de la zithra, accordé selon la gamme de Chusuk et dont on pince les cordes. Instrument favori des troubadours impériaux.
+Baramark	pistolet à poudre et à électricité statique conçu sur Arrakis pour tracer de vastes signes sur le sable.
+Baraka	homme saint aux pouvoirs magiques.
+Bashar	officier sardaukar qui, selon la hiérarchie militaire classique, est à un degré au-dessus d’un colonel. Désigne également le responsable militaire d’un sous-district planétaire.
+Bataille	tout langage spécial à l’étymologie restreinte et destiné aux communications en temps de guerre.
+Bedwine	voir Ichwan Bedwine.
+Bela Tegeuse	cinquième planète de Kuentsing. Troisième station du Zensunni, la migration forcée des Fremen.
+Bene Gesserit	ancienne école d’éducation et d’entraînement physique et mental réservée à l’origine aux étudiants de sexe féminin après que le Jihad Butlérien eut détruit les prétendues « machines pensantes » et les robots.
+B.G.	sigle pour « Bene Gesserit ».
+Bhotani-jib	voir Chakobsa.
+Bible Catholique Orange	le « Livre des Accumulations ». Texte religieux produit par la Commission des Interprètes Œcuméniques, contenant des éléments empruntés aux religions anciennes, du Moameth Saari, de la Chrétienté Mahayana, du Catholicisme Zensunni et des traditions Bouddislamiques. Son commandement suprême est	« Point ne déformeras l’âme. »
+Bi-la kaifa	Amen. (Littéralement	« Toute autre explication est inutile. »)
+Bindu	en rapport avec le système nerveux humain et, plus particulièrement, avec l’entraînement nerveux. (Voir Prana.)
+Bindu	forme particulière de catalepsie volontaire.
+Bled	désert plat.
+Bobine	désigne toute impression sur shigavrille utilisée pour l’éducation et chargée d’une impulsion mnémonique.
+Bordure	second niveau de la grande falaise du Bouclier d’Arrakis. (Voir Bouclier.)
+Bouclier	champ de protection produit par un générateur Holtzman. Résulte de la Phase Un de l’effet d’annulation gravifique. Un bouclier ne peut être pénétré que par des mobiles à faible vitesse (cette vitesse allant de six à neuf centimètres par seconde) et ne peut être détruit que par un champ électrique de vastes dimensions. Désigne également une formation montagneuse du nord d’Arrakis qui protège un territoire de faible étendue des tempêtes coriolis.
+Bourka	manteau isolant porté par les Fremen dans le désert.
+Brilleur	dispositif d’éclairage autonome (généralement équipé de piles organiques) et muni de suspenseurs.
+Burhan	les preuves de vie. (Communément	l’ayat et le burhan de vie. Voir Ayat.)
+Burseg	général des Sardaukars.
+Butlérien	voir Jihad (également Grande Révolte).
+Caïd	officier sardaukar plus particulièrement chargé des rapports avec les civils. Gouverneur militaire d’un district planétaire. Supérieur au Bashar sans être toutefois égal au Burseg.
+Caladan	troisième planète de Delta Pavonis	Monde natal de Paul-Muad’Dib.
+Canto et respondu	rite d’invocation de la panoplia propheticus de la Missionaria Protectiva.
+Carte des creux	carte de la surface d’Arrakis faisant apparaître les routes de paracompas les plus sûres entre les refuges. (Voir Paracompas.)
+Cavalier des sables	terme fremen désignant celui qui est capable de capturer et de chevaucher un ver des sables.
+Chakobsa	le « langage magnétique » dérivé en partie de l’ancien bhotani (bhotani-jib, jib signifiant « dialecte »). Formé de plusieurs dialectes modifiés pour les besoins du secret, et surtout du langage de chasse des Bhotani, les mercenaires de la première Guerre des Assassins.
+Chaumas	poison administré dans la nourriture solide par distinction avec tout poison administré sous une autre forme.
+Chaumurky	poison administré dans une boisson.
+Chenille	désigne tout engin destiné à opérer à la surface d’Arrakis et à participer à la récolte de l’épice.
+Cheops	jeu des pyramides. Forme de jeu d’échecs à neuf niveaux dont le but est de placer la reine en apex et le roi adverse en échec.
+Chercheur-tueur	petite aiguille de métal munie de suspenseurs et dirigée à distance. Moyen d’assassinat courant.
+Choses sombres	expression idiomatique désignant les superstitions infectieuses enseignées par la Missionaria Protectiva aux civilisations sensibles.
+Cherem	fraternité de la haine.
+CHOM	sigle pour Combinat des Honnêtes Ober Marchands. Compagnie universelle contrôlée par l’Empereur et les Grandes Maisons avec la Guilde et le Bene Gesserit comme associés sans droit de vote.
+Chusuk	quatrième planète de Téta Shalish, appelée encore « Planète des Musiciens » et renommée pour la qualité des instruments qui y sont fabriqués. (Voir Varota.)
+Cielago	Chiroptère d’Arrakis modifié dans le but d’acheminer les messages distrans.
+Collecteurs de rosée ou précipitateurs	à ne pas confondre avec Récolteurs de rosée. Les collecteurs et précipitateurs sont des appareils de forme ovoïde longs d’environ quatre centimètres. Ils sont faits d’un chromo-plastique qui, soumis à la lumière, devient blanc et la reflète pour retrouver sa transparence dans l’obscurité. Les collecteurs constituent une surface froide sur laquelle la rosée de l’aube se condense. Les Fremen les utilisent surtout dans les plantations des bassins afin de recueillir un petit appoint d’eau.
+Cône de silence	champ de distorsion qui limite la portée d’une voix ou de toute autre forme de vibration par la projection d’une vibration identique en opposition de phase.
+Coriolis	désigne toute tempête d’ordre majeur sur Arrakis où les vents, soufflant sur les plaines, voient leur force accrue par la révolution de la planète pour atteindre parfois 700 kilomètres à l’heure.
+Corrin	la bataille qui donna son nom à la Maison Corrino. Elle eut lieu près de Sigma Dragonis en l’an 88 A.G. et établit le pouvoir de la Maison régnante de Salusa Secundus.
+Creux	dépression formée à la suite des mouvements des couches métamorphiques sous-jacentes.
+Cristacier	acier stabilisé par des fibres de stravidium insérées dans sa structure cristalline.
+Cuvette	sur Arrakis, désigne toute dépression ou région de basse altitude formée par l’effondrement des couches souterraines. (Sur les planètes pourvues d’eau, une cuvette indique une région autrefois occupée par un plan d’eau. On a relevé une seule trace de ce genre sur Arrakis mais la question est loin d’être résolue.)
+Dar al-hikman	école religieuse de traduction et d’interprétation.
+Derch	virage à gauche. Ordre lancé par le barreur du ver.
+Demi-frères	fils de concubines d’une même demeure et ayant le même père.
+Dictum familia	règle de la Grande Convention qui interdit le meurtre d’une personne royale ou d’un membre d’une Grande Maison par une traîtrise illégale. La règle définit la forme et les limitations de l’assassinat.
+Discipline de l’eau	inflexible, elle permet aux habitants d’Arrakis de survivre sans gaspiller l’humidité.
+Diseuse de vérité	Révérende Mère qualifiée pour entrer en transe et distinguer la vérité du mensonge.
+Distille	vêtement mis au point sur Arrakis et fait d’un tissu dont la fonction est de récupérer l’eau d’évaporation du corps et des déjections organiques. L’eau ainsi recyclée est recueillie dans des poches et peut être à nouveau absorbée à l’aide d’un tube.
+Distrans	appareil utilisé pour pratiquer une impression neurale sur le système nerveux des oiseaux ou chiroptères. Le message s’intègre au cri normal de la créature et peut être lu par un autre distrans.
+Dunes	désigne tous ceux qui travaillent dans le sable (chasseurs d’épice et autres), sur Arrakis.
+Eau de Vie	poison d’« illumination ». (Voir Révérende Mère.) Liquide produit par un ver des sables (voir Shai-hulud) lorsqu’il meurt noyé et qui, transformé par l’organisme de la Révérende Mère, devient un narcotique provoquant l’orgie du tau.
+Ecaz	quatrième planète d’Alpha Centauri B. Paradis des sculpteurs à cause du bois-brouillard, substance végétale que la seule pensée humaine parvient à façonner.
+Ego-simule	portrait exécuté à l’aide d’un projecteur à shigavrille. Il reproduit les mouvements les plus subtils et l’on dit qu’il recèle l’essence de l’ego.
+Elacca	narcotique obtenu par la torréfaction de bois d’elacca d’Ecaz. À pour effet d’atténuer dans des proportions majeures l’instinct de conservation. Confère à la peau une coloration carotte caractéristique. Généralement utilisé pour préparer les esclaves-gladiateurs pour l’arène.
+El-sayal	la « pluie de sable ». Masse de poussière soulevée à une altitude moyenne (environ 2 000 mètres) par une tempête coriolis et qui, en retombant au sol, ramène fréquemment de l’humidité.
+Éperonneur	vaisseau spatial de combat formé de la réunion de plusieurs petits vaisseaux et destiné à détruire les positions ennemies en les écrasant sous son poids.
+Entraînement	associé au Bene Gesserit, désigne tout un système d’éducation, de conditionnement nerveux et musculaire (voir Bindu et Prana) poussé aux limites des fonctions naturelles.
+Épice	voir Mélange.
+Conducteur d’épice	tout homme de Dune qui commande et pilote un engin à la surface d’Arrakis.
+Usine à épice	voir Chenille.
+Erg	mer de sable, zone de dunes.
+Étrange	méthode de combat qui participe de la sorcellerie et de la magie.
+Fai	le tribut d’eau. Le principal impôt d’Arrakis.
+Faiseur	voir Shai-hulud.
+Fanemétal	métal formé par l’addition de cristaux de jasmium dans du duraluminium. Apprécié pour son rapport poids/résistance particulièrement élevé.
+Fardeau de l’eau	pour les Fremen, une obligation mortelle.
+Faufreluches	système de classes rigide mis en place par l’Imperium. « Une place pour chaque homme et chaque homme à sa place. »
+Fedaykin	commandos de la mort fremen. À l’origine formés pour redresser les torts.
+Feu	pyrofusée de signalisation dans le désert.
+Filtre	dispositif dont est muni un distille et qui permet de récupérer l’humidité de la respiration.
+Fiqh	connaissance, loi religieuse. L’une des origines semi-légendaires de la religion des Vagabonds Zensunni.
+Frégate	grand astronef qui peut se poser sur une planète.
+Fremen	libres tribus d’Arrakis, habitants du désert, survivants des Vagabonds Zensunni. (« Pirates des sables », selon le Dictionnaire Impérial.)
+Fremkit	trousse de survie fabriquée par les Fremen.
+Galach	langage officiel de l’Imperium. Hybride inglo-slave fortement marqué par les différents langages spécialisés nés des migrations humaines.
+Gamont	troisième planète de Niushe, renommée pour sa culture hédoniste et ses étranges pratiques sexuelles.
+Gare	butte.
+Geyrat	tout droit. Ordre lancé par le barreur du ver.
+Ghafla	s’abandonner à la distraction. Se dit d’une personne à laquelle on ne peut se fier.
+Ghanima	ce que l’on acquiert durant le combat. Plus communément	souvenir de combat destiné à éveiller la mémoire.
+Giedi Prime	planète d’Ophiuchi B (36), monde natal de la Maison Harkonnen. Planète moyennement habitable à l’activité photo-synthétique réduite.
+Ginaz	alliés temporaires du duc Leto Atréides. Défaits par Grumman pendant la Guerre des Assassins.
+Giudichar	sainte vérité. (Voir Mantène.)
+Grande Convention	désigne la trêve universelle établie par la Guilde, les Grandes Maisons et l’Imperium. Elle interdit l’usage des armes atomiques contre des êtres humains. Chacun de ses édits commence par la phrase	« Les formes doivent être obéies… »
+Grande Mère	la déesse à cornes, le principe féminin de l’espace (Mère-Espace), visage féminin de la trinité mâle-femme-neutre reconnue comme l’Être Suprême par de nombreuses religions de l’Imperium.
+Grande Révolte	terme courant pour désigner le Jihad Butlérien. (Voir Jihad Butlérien.)
+Gridex	séparateur à charge différentielle utilisé pour dégager l’épice du sable.
+Grumman	seconde planète de Niushe. Surtout connue pour les démêlés de sa Maison régnante (Moritani) avec la Maison Ginaz.
+Gom jabbar	Le haut-ennemi. Aiguille enduite de méta-cyanure et utilisée par les Rectrices du Bene Gesserit pour l’épreuve d’humanité.
+Goûte-poison	analyseur à rayons destiné à détecter les substances toxiques.
+Guerre des Assassins	forme de conflit limité autorisée par la Grande Convention et la Guilde de Paix dans le but d’épargner les populations innocentes en réglementant l’usage des armes et en instituant la déclaration préalable des objectifs.
+Guetteurs	ornithoptères chargés de la surveillance d’un groupe d’épiçage.
+Guilde	Guilde Spatiale. Un des trois éléments du tripode sur lequel repose la Grande Convention. La Guilde constitue la seconde école d’éducation psychophysique (voir Bene Gesserit) fondée après le Jihad Butlérien. La Guilde a le monopole du voyage spatial et de la banque. Le Calendrier Impérial est daté de sa création.
+Hagal	la « planète des joyaux » (Il Téta Shaowei). Mise en exploitation sous Shaddam Ier.
+Haiiii-yoh !	en avant ! Ordre lancé par le barreur du ver.
+Hajj	saint voyage.
+Hajr	voyage dans le désert, migration.
+Hajra	voyage de recherche.
+Hal yawm	Enfin ! (Exclamation fremen.)
+Hameçons à faiseur	crochets de métal utilisés pour la capture, la monte et le guidage d’un ver des sables.
+Harmonthep	Ingsley avance le nom de cette planète comme sixième station de la migration des Zensunni. On suppose qu’il s’agissait d’un satellite de Delta Pavonis disparu depuis.
+Haut Conseil	cercle intérieur du Landsraad habilité à agir comme tribunal suprême dans les conflits entre Maisons.
+Hiereg	campement fremen temporaire à ciel ouvert.
+Holtzman	effet de répulsion négative d’un générateur de bouclier.
+Hors freyn	terme galach pour « étranger proche ». C’est-à-dire	qui n’appartient pas à la communauté.
+Ibad	effet caractéristique d’une forte consommation épice qui fond le blanc de l’œil et l’iris en un bleu foncé.
+Ibn qirtaiba	« Ainsi vont les saints mots… » Début rituel de toute incantation religieuse fremen (issue de la panoplia propheticus).
+Ichwan bedwine	fraternité des Fremen sur Arrakis.
+Ijaz	prophétie qui, par sa nature même, ne peut être niée, prophétie immuable.
+Ikhut-eigh !	cri du porteur d’eau sur Arrakis. (Étymologie incertaine.) (Voir également Soo-Soo Sook !)
+Ilm	théologie. Science de la tradition religieuse. L’une des origines semi-légendaires de la foi des Vagabonds Zensunni.
+Impérial	le plus puissant des conditionnements interdisant d’attenter à la vie humaine, mis au point par l’École Suk. Les initiés ont sur le front un tatouage en forme de diamant et sont autorisés à porter les cheveux longs, maintenus par un anneau d’argent.
+Istislah	règle établie pour le bien général. Annonce généralement une mesure brutale.
+Ix	voir Richèse.
+Jihad	croisade religieuse.
+Jihad Butlérien (voir aussi Grande Révolte)	croisade lancée contre les ordinateurs, les machines pensantes et les robots conscients en 201 A. G. et qui prit fin en 108 A. G.. Son principal commandement figure dans la Bible C.O.	« Tu ne feras point de machine à l’esprit de l’homme semblable. »
+Jolitre	récipient d’un litre destiné à transporter l’eau sur Arrakis. Fait de plastique incassable à haute densité et muni d’un bouchon étanche.
+Jubba	cape portée en toute occasion par-dessus le distille. Peut admettre ou réverbérer la chaleur, se transformer en hamac ou même en abri.
+Kanly	forme féodale de vengeance, strictement limitée par la Grande Convention. (Voir Arbitre du Changement.)
+Karama	miracle. Action du monde spirituel.
+Khala	invocation traditionnelle destinée à calmer les esprits courroucés d’un endroit dont on mentionne le nom.
+Kindjal	épée courte à double tranchant, légèrement courbe, longue d’environ 20 centimètres.
+Kiswa	tout dessin appartenant à la mythologie fremen.
+Kitab al-Ibar	manuel religieux et pratique rédigé par les Fremen.
+Krimskell (fibre ou corde de)	la « fibre croc » provenant des plants d’huluf d’Ecaz. Les nœuds d’une corde de krimskell se serrent d’eux-mêmes à la moindre traction. (Pour une étude détaillée, voir l’ouvrage de Holjance Vohnbrook	Les vignes étrangleuses d’Ecaz.)
+Krys	couteau sacré des Fremen. Il est fait en deux versions, fixe et instable, à partir de la dent du ver des sables. Un couteau instable se désintègre à distance du champ électrique d’un organisme humain. Les couteaux fixes sont traités pour être stockés	les uns comme les autres ne dépassent pas 20 centimètres de longueur.
+Kull Wahad !	« Je suis bouleversé ! » Exclamation de totale surprise répandue dans l’lmperium. Son sens exact dépend du contexte. (On prétend que Muad’Dib, voyant un faucon du désert s’extraire de sa coquille se serait écrié	« Kull Wahad ! »)
+Kulon	âne sauvage des steppes asiatiques de Terra, acclimaté sur Arrakis.
+Kwisatz Haderach	« Le raccourcissement du chemin ». Ainsi les Bene Gesserit désignaient-elles l’inconnu pour lequel elles cherchaient une solution génétique, le mâle B.G. dont les pouvoirs psychiques couvriraient l’espace et le temps.
+La, la, la	exclamation de chagrin chez les Fremen. Ultime dénégation.
+Lancette	désigne toute lame courte, fine, souvent enduite de poison et utilisée de la main gauche lors d’un combat au bouclier.
+Lecteur de temps	personne formée aux diverses méthodes de prédiction du temps sur Arrakis. (Sondage du sable, examen des vents.)
+Légion (impériale)	dix brigades (environ 30 000 hommes).
+Liban	le liban fremen est une boisson à base d’épice infusée avec de la farine de yucca. À l’origine, boisson à base de lait aigre.
+Libres commerçants	Contrebandiers.
+Lisan al-Gaib	« La voix d’ailleurs ». Dans les légendes messianiques fremen, le prophète étranger. Parfois traduit par « Donneur d’eau ». (Voir Mahdi.)
+Long-courrier	Principal vaisseau de transport de la Guilde.
+Mahdi	dans les légendes messianiques fremen	« Celui Qui Nous Conduira Au Paradis. »
+Maison	désigne le Clan Régnant d’une planète ou d’un ensemble de planètes.
+Maison majeure	maison qui détient des fiefs planétaires. Entrepreneur interplanétaire. (Voir Maison.)
+Maison mineure	entrepreneur planétaire. (En galach	Richece.)
+Maître de sable	désigne celui qui dirige les opérations d’épiçage.
+Manière	associé au Bene Gesserit	observation attentive et minutieuse.
+Mantène	sagesse secrète, principe premier. (Giudichar.)
+Manuel des Assassins	résultat de trois siècles de compilation sur les prisons, ce manuel était d’usage courant durant les Guerres des Assassins. Il fut plus tard augmenté d’une étude sur tous les engins autorisés par la Grande Convention et la Guilde de Paix.
+Marcheur des sables	désigne tout Fremen entraîné à survivre dans le désert.
+Marée de sable	effet de marée produit par le soleil et les lunes dans certaines importantes dépressions d’Arrakis où la poussière s’est accumulée au fil des siècles.
+Marteleur	tige munie d’un ressort et destinée à produire un bruit sourd et rythmé dans le sable afin d’attirer le shai-hulud. (Voir hameçons à faiseur.)
+Mashad	toute épreuve dont dépend l’honneur.
+Masse d’épice	masse de végétation fongoïde produite par le mélange de l’eau et des excrétions du Petit Faiseur. À ce stade, l’épice d’Arrakis produit une « explosion » caractéristique qui permet l’échange entre les matières souterraines et celles de la surface. Cette masse, après avoir été exposée au soleil et à l’air, devient la véritable épice, le Mélange. (Voir également Mélange et Eau de Vie.)
+Maula	esclave.
+Maula (pistolet)	arme à ressort lançant des aiguilles empoisonnées. Portée approximative	40 mètres.
+Mélange	l’« épice des épices » dont Arrakis constitue l’unique source. L’épice, utilisée surtout pour ses qualités gériatriques, provoque une légère accoutumance et devient très dangereuse dans le cas d’une absorption supérieure à deux grammes par jour pour un organisme de soixante-dix kilos. (Voir Ibad, Eau de vie et Masse d’épice.) L’épice serait la clé des pouvoirs prophétiques de Muad’Dib et, également, des navigateurs de la Guilde. Son prix, sur le marché impérial, a parfois dépassé 620 000 solaris le décigramme.
+Mentat	classe de citoyens de l’Imperium formés à la logique la plus poussée. Appelés « ordinateurs humains ».
+Mesures d’eau	Anneaux de métal de différents diamètres destinés à servir de monnaie d’échange pour l’eau. Les mesures d’eau ont une signification symbolique profonde dans le rituel de naissance, de mort et de mariage.
+Métaglass	verre formé à haute température entre des feuilles de quartz de jasmium. Particulièrement apprécié pour sa résistance (environ 450 tonnes au centimètre carré pour deux centimètres d’épaisseur) et ses capacités de filtre sélectif.
+Mihna	la saison de l’épreuve pour les jeunes Fremen destinés à devenir des adultes.
+Minimic	shigavrille d’un micron de diamètre utilisée pour la transmission d’information dans le domaine de l’espionnage.
+Mish-mish	abricots.
+Misr	« Le peuple ». Ainsi se désignaient eux-mêmes les Zensunni (Fremen).
+Missionaria Protectiva	le bras du Bene Gesserit chargé de semer des superstitions infectieuses sur les mondes primitifs et de les préparer ainsi à l’exploitation du Bene Gesserit. (Voir Panoplia propheticus.)
+Moissonneuse	machine de grandes dimensions (en général 120 mètres sur 40) destinée à récolter l’épice sur les gisements riches. Souvent appelée simplement chenille en raison de son aspect.
+Monitor	engin spatial de combat formé de dix sections, lourdement blindé et muni de boucliers. Les sections se séparent pour regagner l’espace à partir d’une planète.
+Muad’Dib	souris-kangourou adaptée à Arrakis. Associée à la mythologie fremen, sa silhouette étant visible sur la seconde lune de la planète. Ce petit animal est admiré par les Fremen pour sa capacité d’adaptation au désert.
+Mudir Nahya	nom fremen pour Rabban (Rabban la Bête, Comte de Lankiveil), cousin des Harkonnen qui fut Siridar-gouverneur d’Arrakis pendant quelques années. Appelé quelquefois « Maître Démon ».
+Mushtamal	petit jardin annexe.
+Musky	poison administré dans une boisson. (Voir Chaumurky.)
+Mu zein wallah !	Mu zein signifie littéralement	« rien de bon », et wallah est une exclamation terminale. Précède généralement une malédiction fremen à l’encontre d’un ennemi.
+Na	préfixe signifiant « nommément » ou « le prochain ». Ainsi, na-Baron désigne l’héritier apparent d’une baronnie.
+Naib	celui qui a juré de n’être jamais pris vivant par l’ennemi. Serment traditionnel d’un chef fremen. Nezhoni (mouchoir)	carré d’étoffe porté sous le distille par les épouses ou les compagnes fremen après la naissance d’un fils.
+Noukkers	officiers du corps impérial qui sont liés par le sang à l’Empereur. Titre traditionnel des fils des concubines royales.
+Objectifs à huile	huile d’huluf maintenue sous tension par deux champs de force à l’intérieur d’un tube. Chaque objectif à huile peut être réglé séparément avec une précision de l’ordre du micron. Les objectifs à huile sont considérés comme l’achèvement ultime de l’optique.
+Opaflamme	opaline très rare de Hagal.
+Ornithoptère	engin aérien à ailes mobiles dont le principe de sustentation est analogue à celui des oiseaux.
+Panoplia propheticus	ce terme recouvre toutes les superstitions infectieuses utilisées par le Bene Gesserit pour l’exploitation des régions primitives. (Voir Missionaria Protectiva.)
+Paracompas	désigne tout compas indiquant les anomalies magnétiques locales. Utilisé lorsque des cartes sont disponibles et lorsque le champ magnétique d’une planète est particulièrement instable.
+Pentabouclier	générateur de champ de force portatif, utilisé pour protéger les couloirs et les portes. (Les boucliers d’appoint deviennent de plus en plus instables avec l’augmentation des différents champs.) Le pentabouclier est virtuellement infranchissable pour quiconque ne possède pas un désactivateur réglé sur le code. (Voir Porte de prudence.)
+Petit Faiseur	semi-plante, semi-animal qui est à l’origine de la naissance du ver des sables d’Arrakis et dont les excrétions forment la masse d’épice.
+Piège à vent	appareil placé sur le parcours des vents dominants et qui condense l’humidité par l’effet d’un brusque abaissement de température.
+Pleniscenta	plante verte d’Ecaz renommée pour son parfum.
+Poritrin	troisième planète d’Epsilon Alangue, considérée par de nombreux Zensunni comme leur monde natal, quoique leur langage et leur mythologie indiquent des origines plus lointaines.
+Porteur d’eau	Fremen chargé des devoirs rituels de l’eau et de l’Eau de Vie.
+Portyguls	oranges.
+Prana	Les muscles du corps considérés comme autant d’unités pour l’ultime entraînement. (Voir Bindu.)
+Première lune	satellite naturel principal d’Arrakis et le premier à apparaître. La forme d’un poing humain est visible à sa surface.
+Procès-verbal	rapport semi-officiel sur un crime commis contre l’Imperium.
+Prudence	pentabouclier destiné à empêcher la fuite de certaines personnes. (Voir Pentabouclier.)
+Pundi	variété de riz mutante dont les grains, riches en sucre naturel, atteignent parfois quatre centimètres de long. Principale exportation de Caladan.
+Pyons	paysans ou travailleurs locaux d’une planète. Formaient l’une des classes inférieures sous le système des Faufreluches. Légalement	gardiens de la planète.
+Pyrétique	« Conscience du feu ». Niveau d’inhibition du conditionnement impérial. (Voir Conditionnement impérial.)
+Qanat	canal d’irrigation à ciel ouvert acheminant l’eau à travers le désert, sur Arrakis.
+Qirtaiba	Voir Ibn Qirtaiba.
+Quizara tafwid	prêtres fremen (après Muad’Dib).
+Rachag	stimulant à base de caféine extrait des baies jaunes de l’akarso. (Voir Akarso.)
+Ramadhan	ancienne période religieuse marquée par le jeûne et la prière. Traditionnellement, neuvième mois du calendrier lunaire et solaire. Les Fremen le mesurent au passage de la première lune à la verticale du neuvième méridien.
+Ramasseurs de rosée	ceux qui prélèvent la rosée sur les plantes d’Arrakis à l’aide d’une sorte de serpe.
+Rectrice	désigne une Révérende Mère du Bene Gesserit qui dirige également une école régionale B.G. (Appelée communément	Bene Gesserit-avec-le-Regard.)
+Razzia	raid de guérilla.
+Recycles	tubes reliant le dispositif de traitement des déjections du distille aux filtres de recyclage.
+Repkit	nécessaire de réparation du distille.
+Révérende Mère	à l’origine, une rectrice du Bene Gesserit qui a transformé le « poison d’illumination » dans son corps pour atteindre le plus haut degré de perception. Titre adopté par les Fremen pour leurs propres chefs religieux qui connaissent une épreuve similaire. (Voir également Bene Gesserit et Eau de Vie.)
+Richèse	quatrième planète d’Eridani A, renommée, avec Ix, pour sa civilisation technique. Spécialisée dans la miniaturisation. (Pour de plus amples détails quant à la façon dont Richèse et Ix ont échappé aux effets principaux du Jihad Butlérien, voir Le Dernier Jihad par Sumer et Kautman.)
+Ruh (esprit)	dans la croyance fremen, cette part de l’individu qui est en contact permanent avec le monde métaphysique. (Voir Alam al-Mithal.)
+Résiduel (poison)	innovation dans le domaine des poisons attribuée au Mentat Piter de Vries et qui consiste à injecter dans l’organisme une substance toxique dont les effets doivent être annulés par des doses répétées d’antidote. La suppression de l’antidote provoque la mort.
+Sables-tambours	couche de sable dont la densité est telle qu’un coup frappé en surface produit le son caractéristique d’un tambour.
+Sadus	juges. Pour les Fremen	juges saints.
+Salusa Secundus	troisième planète de Gamma Waiping. Choisie comme Planète-prison impériale après que la Cour se fut retirée sur Kaitain. Salusa Secundus est le monde originel de la Maison Corrino et la seconde station des Vagabonds Zensunni. La tradition fremen rapporte qu’ils furent maintenus en esclavage sur Salusa Secundus durant neuf générations.
+Sapho	liquide hautement énergétique extrait de racines d’Ecaz. Communément en usage chez les Mentats dont il augmenterait les pouvoirs. Provoque l’apparition de taches rubis sur les lèvres.
+Sardaukars	soldats fanatiques de l’Empereur Padishah. Ces hommes étaient formés dans un milieu hostile au sein duquel six personnes sur treize trouvaient la mort avant d’atteindre l’âge de onze ans. Leur entraînement militaire impitoyable développait leur férocité tout en éliminant presque l’instinct de conservation. Dès l’enfance, on leur enseignait l’utilisation de la cruauté et de la terreur. Ils furent au combat les égaux des soldats du dixième niveau du Ginaz et leur habileté en combat singulier était comparable à celle d’un adepte du Bene Gesserit. Chaque Sardaukar équivalait à dix combattants ordinaires du Landsraad. Sous le règne de Shaddam IV, leur puissance subit l’effet de leur trop grande confiance et leur mystique guerrière fut sapée par le cynisme.
+Sarfa	l’acte de se détourner de Dieu.
+Sayyadina	acolyte féminine dans la hiérarchie religieuse fremen.
+Sceau de porte	dispositif portatif d’obturation en plastique destiné à retenir l’humidité à l’intérieur des grottes fremen, durant le jour.
+Schlag	animal originaire de Tupile, renommé pour son cuir mince et dur et qui fut chassé jusqu’à ce que l’espèce soit en voie de disparition.
+Seconde lune	le plus petit des deux satellites naturels d’Arrakis. Certains détails de sa surface semblent former l’image d’une souris-kangourou.
+Selamlik	Salle d’Audience Impériale.
+Sélection	index où le Bene Gesserit enregistrait le développement de son programme de sélection génétique destiné à produire le Kwisatz Haderach.
+Sémuta	narcotique. Dérivé secondaire de la torréfaction du bois d’elacca. Ses effets (suspension du temps, extase) sont accrus par certaines vibrations atonales appelées « musique de la sémuta ».
+Serrure à main	désigne tout dispositif de fermeture qui peut être ouvert par le simple contact d’une main humaine pour laquelle il a été programmé.
+Servok	mécanisme automatique destiné à des tâches simples. L’un des rares appareils de ce type autorisé après le Jihad Butlérien.
+Shadout	« Qui creuse les puits ». Titre honorifique.
+Shah-Nama	Le Premier Livre semi-légendaire des Vagabonds Zensunni.
+Shai-hulud	ver des sables d’Arrakis, « le vieil homme du désert », « le vieux père éternité », « le grand-père du désert ». Il est significatif que ces noms, prononcés d’une certaine façon ou écrits avec des majuscules, désignent la déité terrestre des superstitions fremen. Les vers des sables atteignent des dimensions colossales (on a observé dans le désert profond des vers de 400 mètres de long) et vivent très longtemps quand ils ne s’entretuent pas ou ne se noient pas dans l’eau qui, pour eux, est toxique. On pense qu’une grande partie du sable qui recouvre Arrakis est produite par l’action des vers. (Voir Petit Faiseur.)
+Shaitan	Satan.
+Shari-a	partie de la panoplia propheticus qui concerne les rites superstitieux. (Voir Missionaria Protectiva.)
+Shigavrille	produit métallique d’une plante (la Narvi narviium) qui ne pousse que sur Salusa Secundus et III Delta Kaising. Réputé pour son extrême résistance à la traction.
+Sietch	terme Fremen pour « lieu de réunion en période de danger ». Les Fremen vécurent si longtemps dans le danger que le terme finit par désigner toute grotte habitée par une communauté tribale.
+Sihaya	terme fremen désignant le printemps du désert avec des implications religieuses sur la fécondité et « le paradis à venir ».
+Sillon	dépression entourée de terrains élevés, sur Arrakis, et protégée des tempêtes. Zone habitable.
+Sirat	passage de la Bible C.O. qui décrit la vie humaine comme le passage sur un pont étroit (le Sirat) avec « le Paradis sur ma droite, l’Enfer sur ma gauche, et l’Ange de la Mort derrière moi ».
+Solari	unité monétaire de l’Imperium dont la valeur était fixée par la Guilde, le Landsraad et l’Empereur.
+Solido	image tridimensionnelle issue d’un projecteur solido utilisant les signaux à 360o inscrits sur une bobine de shigavrille. Les solido ixiens sont les plus réputés.
+Sondagi	tulipe-fougère de Tupali.
+Sonder le sable	art qui consiste à planter des tiges fibroplastiques dans les étendues désertiques d’Arrakis et à interpréter les traces laissées par les tempêtes de sable pour essayer de prédire le temps.
+Soo-Soo Sook !	cri du marchand d’eau sur Arrakis. Sook désigne la place du marché. (Voir Ikhut-eigh !)
+Subakh ul kuhar	« Comment allez-vous ? » Formule de politesse fremen.
+Subakh un nar	« Ça va. Et vous ? » Réponse traditionnelle à la formule précédente.
+Suspenseur	application de l’effet de phase d’un générateur de champ Holtzman. Le suspenseur annule la gravité dans certaines limites relatives à la masse et à l’énergie consommée.
+Tahaddi al-Burhan	épreuve ultime pour laquelle il ne saurait y avoir d’appel (en général parce que son issue est la mort).
+Tahaddi	défi fremen annonçant un combat à mort.
+Taillerays	laser à faible portée, modifié pour être utilisé comme outil de taille ou scalpel chirurgical.
+Taqwa	littéralement	« le prix de la liberté ». Quelque chose de grande valeur. Ce qu’un dieu exige d’un mortel. La peur suscitée par cette demande.
+Tau	en terme fremen, l’unité d’une communauté sietch induite par l’épice et plus spécialement à la suite de l’orgie tau au cours de laquelle on absorbe l’Eau de Vie.
+Tleilax	unique planète de Thalim, centre de formation « clandestin » de Mentats « tordus ».
+Transe de vérité	transe semi-hypnotique provoquée par certains narcotiques de perception et au cours de laquelle on décèle le mensonge par les plus infimes détails. (Note	les narcotiques de perception sont fréquemment fatals, sauf pour les individus capables de modifier la structure du poison dans leur organisme.)
+Tupile	« planète-sanctuaire » (il y en eut probablement plusieurs) des Maisons de l’Imperium défaites et dont la situation n’est connue que de la Guilde. Cet asile est demeuré inviolé pendant toute la durée de la Paix de la Guilde.
+Ulema	docteur en théologie des Zensunni.
+Umma	membre de l’une des fraternités de prophètes. Terme de mépris dans l’Imperium pour toute personne ayant tendance à énoncer des prophéties fanatiques.
+Uroshnor	l’un des mots dépourvus de sens particulier et que les Bene Gesserit implantent dans l’esprit de leurs victimes pour les contrôler. Celles-ci, lorsque le mot est prononcé, sont immobilisées.
+Usul	terme fremen signifiant	« La base du pilier. »
+Varota	luthier fameux pour ses balisettes. Natif de Chusuk.
+Vérité	narcotique d’Ecaz qui annihile la volonté. Interdit tout mensonge à celui qui l’absorbe.
+Ver des sables	Voir Shai-hulud.
+Vidangeur	terme général désignant les astronefs-cargos de forme irrégulière chargés de déverser des matériaux depuis l’espace vers la surface d’une planète.
+Vinencre	plante rampante originaire de Giedi Prime et dont les maîtres d’esclaves se servent fréquemment comme d’un fouet. Laisse dans la chair une cicatrice de couleur rouge sombre et une douleur résiduelle qui subsiste durant des années.
+Voix	effet de l’éducation Bene Gesserit. Permet aux adeptes de sélectionner certains harmoniques de leur voix afin de contrôler les individus.
+Wali	jeune Fremen inexpérimenté.
+Wallach IX	neuvième planète de Laoujin qui abrite l’École Mère du Bene Gesserit.
+Ya hya chouhada	« Longue vie aux combattants ! » Cri de bataille des Fedaykin. Ya (maintenant) est ici augmenté de la forme hya (maintenant prolongé éternellement). Chouhada (combattants) a ici le sens précis de combattants contre l’injustice.
+Yali	appartement personnel d’un Fremen à l’intérieur d’un sietch.
+Ya ! Ya ! Yawm !	chant rythmé fremen pour les rites les plus importants. Ya a le sens de	« Maintenant, faites bien attention ! » La forme yawm accentue l’urgence. Ce chant est en général traduit par	« Maintenant, écoutez bien ! »
+Zensunni	adeptes de la secte schismatique qui rompit vers 1381 A.G. avec les enseignements de Mahomet (le soi-disant « Troisième Mahomet »). La religion des Zensunni se caractérise par l’importance accordée au mysticisme et le retour aux « voies de nos pères ». Certaines études indiquent qu’Ali Ben Ohashi aurait été à l’origine du schisme mais diverses preuves tendent à le faire apparaître comme un simple porte-parole de sa seconde épouse, Nisai.
